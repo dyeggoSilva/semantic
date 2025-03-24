@@ -1,0 +1,6 @@
+"A pesquisa cognitiva é uma ferramenta poderosa."
+
+"Azure AI facilita a análise de grandes volumes de dados."
+
+"O aprendizado de máquina pode extrair insights valiosos de documentos."
+
